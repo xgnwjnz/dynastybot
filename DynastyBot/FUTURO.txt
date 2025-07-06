@@ -1,0 +1,1 @@
+Para la proxima actualizacion hay que dejar de usar team.json y llevar todo a la base de datos
